@@ -12,3 +12,7 @@
  Day 3:
  1. Learned how to add up a number of hours and minutes from multiple videos using JavaScript reduce from Wes Bos' JavaScript30 challenge. <br />
  2. Organized my notes for Alchemy University's JavaScript course. <br />
+
+ Day 4:
+ 1. Learned how to add filters to webcam from Wes Bos' JavaScript30 challenge. <br />
+ 2. Learned objects from Alchemy University's JavaScript course. <br />
