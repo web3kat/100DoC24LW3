@@ -16,3 +16,6 @@
  Day 4:
  1. Learned how to add filters to webcam from Wes Bos' JavaScript30 challenge. <br />
  2. Learned objects from Alchemy University's JavaScript course. <br />
+
+ Day 5:
+ 1. Learned intermediate JavaScript features from Alchemy University's JavaScript course. <br />
